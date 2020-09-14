@@ -1,2 +1,2 @@
 # fmt-demo
-fmt demo project using CMake
+[fmt](https://fmt.dev/latest/index.html) demo project using CMake
